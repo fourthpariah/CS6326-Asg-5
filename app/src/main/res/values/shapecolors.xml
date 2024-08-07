@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="colors_array">
+        <item><color name="shapeRed">#FF0000</color></item>
+        <item><color name="shapeOrange">#FFA500</color></item>
+        <item><color name="shapeYellow">#FFFF00</color></item>
+        <item><color name="shapeGreen">#00FF00</color></item>
+        <item><color name="shapeBlue">#00FFFF</color></item>
+        <item><color name="shapePurple">#FF00FF</color></item>
+        <item><color name="shapeWhite">#FFFFFF</color></item>
+    </string-array>
+</resources>
